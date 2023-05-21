@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abraham</h1>
 <h3 align="center">A scientific programmer passionate to solve complex problems through code.</h3>
 
-<script src="https://cdn.lordicon.com/bhenfmcm.js"></script>
-<lord-icon
-    src="https://cdn.lordicon.com/zlyxhzar.json"
-    trigger="hover"
-    colors="primary:#ffffff"
-    style="width:50px;height:50px">
-</lord-icon>
+<img align="right" alt="coding" width="50 px" src="images/coding_icon.gif">
 
 - 🤝 I’m looking for help with a Geometric calculator [Hexania](https://github.com/amprod18/Hexania)
 
