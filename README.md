@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abraham</h1> <img align="right" alt="coding" width="50 px" src="coding_icon.gif">
+<h1 align="center">Hi 👋, I'm Abraham <img align="right" alt="coding" width="50 px" src="coding_icon.gif"></h1> 
 <h3 align="center">A scientific programmer passionate to solve complex problems through code.</h3>
 
 
