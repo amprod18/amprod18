@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with a Geometric calculator [Hexania](https://github.com/amprod18/Hexania)
 
-- 👨‍💻 All of my projects are available at [https://amprod18.github.io/amprod.github.io/](https://amprod18.github.io/amprod.github.io/)
+- 👨‍💻 All of my projects are available at [https://amprod18.github.io](https://amprod18.github.io)
 
 - 📫 How to reach me **martinezcuestaabraham@gmail.com**
 
